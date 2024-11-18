@@ -8,7 +8,7 @@ En este proyecto vamos a poder procesar una sopa de letras desde un archivo de t
 
 ### Archivos del Proyecto
 - **`main.py`**: Archivo principal que gestiona la lectura del archivo de entrada, la búsqueda de palabras y la generación del reporte en JSON.
-- **`metodos.py`**: Contiene las funciones que implementan las búsquedas en la sopa de letras.
+- **`methods.py`**: Contiene las funciones que implementan las búsquedas en la sopa de letras.
 - **`input.txt`**: Archivo de entrada que contiene la sopa de letras y la lista de palabras a buscar.
 - **`status.json`**: Archivo de salida que contiene el reporte de las palabras encontradas y no encontradas en formato JSON.
 - **`requirements.txt`**: Archivo que enumera los paquetes necesarios para ejecutar el proyecto.
